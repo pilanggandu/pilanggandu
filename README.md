@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/pilanggandu](https://github.com/pilanggandu)
 - 💬 Ask me about **Laravel, React, React Native, Tailwind, PostgreSQL**
 - 📫 How to reach me: **[gilangpermadi66@gmail.com]**
-- ⚡ Fun fact: *Terobsesi dengan clean code ☕*
+- ⚡ Fun fact: *Terobsesi dengan clean code 🪣🚽🪤🧹*
 
 ---
 
