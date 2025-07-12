@@ -8,8 +8,12 @@
 </p>
 
 <p align="center">
-  <a href="mailto:gilangpermadi66@gmail.com"><img src="https://img.shields.io/badge/Email-gilangpermadi66@gmail.com-red?style=flat-square&logo=gmail" /></a>
-  <a href="https://github.com/pilanggandu"><img src="https://img.shields.io/github/followers/pilanggandu?label=GitHub&style=flat-square&logo=github" /></a>
+  <a href="mailto:gilangpermadi66@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gilangpermadi66@gmail.com-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://github.com/pilanggandu">
+    <img src="https://img.shields.io/github/followers/pilanggandu?label=GitHub&style=flat-square&logo=github" />
+  </a>
 </p>
 
 ---
@@ -24,11 +28,10 @@
 
 ### 🚀 Tech Stack & Tools
 
-```plaintext
-💻 Languages : PHP, JavaScript, TypeScript, C#, PostgreSQL
-🌐 Frontend  : React, Next.js, Vue (beginner), Tailwind CSS, Blade
-🛠️ Backend   : Laravel, Node.js, Express
-🧰 Tools     : Git, Docker, Postman, VS Code, Figma
+- **💻 Languages**: PHP, JavaScript, TypeScript, C#, PostgreSQL  
+- **🌐 Frontend**: React, Next.js, Vue (beginner), Tailwind CSS, Blade  
+- **🛠️ Backend**: Laravel, Node.js, Express  
+- **🧰 Tools**: Git, Docker, Postman, VS Code, Figma  
 
 ---
 
