@@ -1,27 +1,31 @@
-## Hi there 👋
+<!-- PROFILE README -->
 
 <h1 align="center">Hi 👋, I'm Gilang Pandu Permadi</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+<h3 align="center">A passionate Fullstack Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Fullstack+Developer;Laravel+%7C+React+%7C+Next.js+%7C+Tailwind;Loves+building+beautiful+and+efficient+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Laravel+%7C+React+%7C+Next.js+%7C+Tailwind;Loves+Clean+Code+and+Open+Source+Projects" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:gilangpermadi66@gmail.com"><img src="https://img.shields.io/badge/Email-gilangpermadi66@gmail.com-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://github.com/pilanggandu"><img src="https://img.shields.io/github/followers/pilanggandu?label=GitHub&style=flat-square&logo=github" /></a>
 </p>
 
 ---
 
-- 🔭 I’m currently working on **[ERP System]()**
-- 🌱 I’m currently learning **Vue.js, TypeScript, Clean Architecture**
-- 👨‍💻 All of my projects are available at [https://github.com/pilanggandu](https://github.com/pilanggandu)
-- 💬 Ask me about **Laravel, React, React Native, Tailwind, PostgreSQL**
-- 📫 How to reach me: **[gilangpermadi66@gmail.com]**
-- ⚡ Fun fact: *Terobsesi dengan clean code 🪣🚽🪤🧹*
+- 🔭 I’m currently working on **ERP System**  
+- 🌱 I’m currently learning **Vue.js, TypeScript, Clean Architecture**  
+- 💬 Ask me about **Laravel, React, React Native, Tailwind, PostgreSQL**  
+- 📫 Reach me at **gilangpermadi66@gmail.com**  
+- ⚡ Fun fact: *Terobsesi dengan clean code 🪣🧽🚿 UNDERDEVELOPMENT XIXI*  
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Tech Stack & Tools
 
 ```plaintext
-💻 Languages: PHP, JavaScript, C#, PostgreSQL  
-🌐 Frontend: React, Next.js, Tailwind CSS, Blade  
-🛠️ Backend: Laravel, Node.js, Express  
-🧰 Tools: Git, VS Code, Postman, Docker  
+💻 Languages : PHP, JavaScript, TypeScript, C#, PostgreSQL
+🌐 Frontend  : React, Next.js, Vue (beginner), Tailwind CSS, Blade
+🛠️ Backend   : Laravel, Node.js, Express
+🧰 Tools     : Git, Docker, Postman, VS Code, Figma
