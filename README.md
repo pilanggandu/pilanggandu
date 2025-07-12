@@ -29,3 +29,28 @@
 🌐 Frontend  : React, Next.js, Vue (beginner), Tailwind CSS, Blade
 🛠️ Backend   : Laravel, Node.js, Express
 🧰 Tools     : Git, Docker, Postman, VS Code, Figma
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pilanggandu&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pilanggandu&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="mailto:gilangpermadi66@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-gilangpermadi66@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/gilang-permadi-544b17199">
+    <img src="https://img.shields.io/badge/LinkedIn-Gilang%20Permadi-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/pilanggandu">
+    <img src="https://img.shields.io/badge/GitHub-@pilanggandu-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
